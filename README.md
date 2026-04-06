@@ -41,7 +41,7 @@ Ghostty  ·  Starship  ·  OpenClaw
 
 ### 🧭 Where I'm headed
 
-I'm on the **Principal Engineer** track - deep technical ownership. Current obsessions include agentic AI systems for data platform operations and making Claude Code do increasingly unreasonable things.
+Current obsessions include agentic AI systems for data platform operations and making Claude Code do increasingly unreasonable things.
 
 ---
 
