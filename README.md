@@ -1,6 +1,6 @@
 # Hey, I'm Harsha 👋
 
-**Lead Data & Platform Architect** · Copenhagen 🇩🇰 · Building things that scale to 32+ terminals worldwide.
+**Lead Data & Platform Architect** · Copenhagen 🇩🇰 · Building things that scale.
 
 By day I architect the Global Data Analytics platform at **Maersk** - Delta Lake medallion pipelines, real-time Kafka streams, and the kind of Spark debugging that builds character. By night I build side projects that probably won't make money but definitely make me happy.
 
