@@ -12,6 +12,8 @@ By day I architect the Global Data Analytics platform at **Maersk** - Delta Lake
 
 🏁 **[KartGP](https://github.com/sriharsha-marutheswar/kartgp)** - AI Race Engineer for go-karting. Ingests RaceChrono telemetry exports, auto-learns any track's geometry from GPS data, segments corners using lateral G-force peaks, and delivers data-backed coaching via Claude. Python/FastAPI + React/Vite. Currently tested at Roskilde Racing Center, but track-agnostic by design.
 
+⚖️ **[Council](https://github.com/sriharsha-marutheswar/council)** - Run decisions through 5 AI advisors with anonymous peer review and synthesis. A Claude Code skill adapted from Karpathy's LLM Council concept. Install with `npx council-skill --claude`.
+
 🤖 **Subbu** _(work in progress)_ - My personal AI butler, built on [OpenClaw](https://github.com/openclaw/openclaw). A self-hosted agent that handles my inbox, automates daily workflows, and slowly learns to be me - minus the coffee dependency.
 
 ---
